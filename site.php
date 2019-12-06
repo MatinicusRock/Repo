@@ -7,7 +7,10 @@
   <body>
 
     <?php
-      echo ("Hello World");
+      echo "Man named John";
+      echo "He was 35<br>";
+      echo "He liked John<br>";
+      echo "<p>Did not like being 35</p>";
      ?>
 
   </body>
