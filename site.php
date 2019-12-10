@@ -5,13 +5,14 @@
     <title></title>
   </head>
   <body>
-
     <?php
-      echo "Man named John";
-      echo "He was 35<br>";
-      echo "He liked John<br>";
-      echo "<p>Did not like being 35</p>";
+    $phrase = "To be or not to be";
+    $characterAge = 27;
+    $age = 30;
+    $gpa = 3.7;
+    $isMale = true;
+    echo "$phrase <br>";
+    echo "$age <br>";
      ?>
-
   </body>
 </html>
