@@ -5,13 +5,13 @@
     <title></title>
   </head>
   <body>
-
     <?php
-    $phrase = "Giraffe Academy";
-    echo substr ($phrase, 8);
-//    echo  $phrase;
+
+    echo (4 + 5)  * 3;
 
      ?>
+
+
 
   </body>
 </html>
